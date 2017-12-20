@@ -1,5 +1,5 @@
 '''
-RNA.py
+rna.py
 
 A script that translates a DNA string in RNA.
 '''
